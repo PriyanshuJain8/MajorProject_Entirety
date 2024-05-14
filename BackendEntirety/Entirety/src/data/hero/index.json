@@ -1,0 +1,26 @@
+[
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "Find Your Dream House By Us",
+    "Desc": "Explore Luxury Living with Our Exclusive Real Estate Collection",
+    "icon": "FaHome",
+    "heroimage": "61.jpg",
+    "id": "01",
+    "buttonText": "Make An Enquiry",
+    "videoButton": true,
+    "learnMoreButtonText": false,
+    "variationLeft": false
+  },
+  {
+    "subtitle": "Real Estate Agency",
+    "Title": "The Right Place of House Finding",
+    "Desc": "Explore Luxury Living with Our Exclusive Real Estate Collection",
+    "icon": "FaHome",
+    "heroimage": "62.jpg",
+    "id": "02",
+    "buttonText": "Make An Enquiry",
+    "videoButton": false,
+    "learnMoreButtonText": "LEARN MORE",
+    "variationLeft": true
+  }
+]
